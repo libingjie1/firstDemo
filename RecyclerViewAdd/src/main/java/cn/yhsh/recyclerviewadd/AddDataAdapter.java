@@ -10,7 +10,7 @@ import android.widget.Toast;
 import java.util.List;
 
 /**
- * @author DELL
+ * @author 轻飞扬
  */
 public class AddDataAdapter extends RecyclerView.Adapter<AddDataAdapter.VH> {
     private List<String> addViewed;
