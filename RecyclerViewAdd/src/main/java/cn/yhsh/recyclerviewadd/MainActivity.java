@@ -11,8 +11,9 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @author DELL
+ * @author 轻飞扬
  * 2019年4月8日16:57:55
+ * 点击加号添加新模块的功能
  */
 public class MainActivity extends Activity {
 
